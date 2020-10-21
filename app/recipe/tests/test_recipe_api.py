@@ -64,7 +64,7 @@ class PrivateRecipeApiTests(TestCase):
     def test_recipes_limited_to_user(self):
         """Test retrieving recipes for user"""
         user2 = get_user_model().objects.create_user(
-            'rohan@rrg.com.np',
+            'rohit@rrg.com.np',
             'pass'
         )
         sample_recipe(user=user2)
