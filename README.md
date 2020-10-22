@@ -4,6 +4,10 @@ This is a recipe RESTful API written with **Django** and **Django REST framework
 
 This project is a sample app that can be used for other projects.
 
+---
+[!rrg](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/191393/image-1582291847235-c9eca2184c9ed224f2a62e945490ee30.png)
+---
+
 ## Features
 
 * Setting up the project with Docker
