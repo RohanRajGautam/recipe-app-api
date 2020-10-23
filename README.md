@@ -4,6 +4,8 @@ This is a recipe RESTful API written with **Django** and **Django REST framework
 
 This project is a sample app that can be used for other projects.
 
+---
+
 ## Features
 
 * Setting up the project with Docker
